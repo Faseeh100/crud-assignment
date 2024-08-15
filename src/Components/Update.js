@@ -35,6 +35,7 @@ const Update = () => {
 
   return (
     <>
+    <h1>Register Yourself!</h1>
 
 <h2>Update</h2>
   <form>

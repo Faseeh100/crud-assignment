@@ -33,6 +33,7 @@ const Create = () => {
 
 
   return <>
+  <h1>Register Yourself!</h1>
   <div className="d-flex justify-content-between m-2">
   <h2>Create</h2>
   <Link to="/read">
